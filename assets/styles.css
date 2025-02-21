@@ -179,7 +179,7 @@ footer {
 
 }
 
-.video-background iframe {
+.video-background video {
   position: absolute;
   top: 0;
   left: 0;
